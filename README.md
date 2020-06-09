@@ -18,24 +18,24 @@
 - and much more ...
 
 ## blog home page
-[logo]: img/6.png
+![alt text](img/6.png "blog home page")
 ---
-## blog posts page
-[logo]: img/1.png
----
-
-## blog dashboard page
-[logo]: img/2.png
+## blog posts 
+![alt text](img/1.png "blog home page")
 ---
 
-## blog categories page
-[logo]: img/3.png
+## blog dashboard 
+![alt text](img/2.png "blog home page")
 ---
 
-## blog add new post page
-[logo]: img/4.png
+## blog categories 
+![alt text](img/3.png "blog home page")
 ---
 
-## blog tags page
-[logo]: img/5.png
+## blog add new post 
+![alt text](img/4.png "blog home page")
+---
+
+## blog tags 
+![alt text](img/5.png "blog home page")
 ---
